@@ -2,7 +2,6 @@
 
 Estructura:
 
-```console
 jedi-locator
 ├── terraform
 │   ├── main.tf
