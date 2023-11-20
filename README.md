@@ -1,16 +1,16 @@
 # Jedi Locator - Cloud Technical Test
 
-|-- jedi-locator
-    |-- terraform
-        |-- main.tf
-        |-- variables.tf
-        |-- outputs.tf
-        |-- modules
-            |-- ...
+|__ jedi-locator
+    |__ terraform
+        |__ main.tf
+        |__ variables.tf
+        |__ outputs.tf
+        |__ modules
+            |__ ...
     |-- serverless-function
-        |-- handler.py
-        |-- requirements.txt
-    |-- README.md
+        |__ handler.py
+        |__ requirements.txt
+    |__ README.md
 
 
 ## Descripción
