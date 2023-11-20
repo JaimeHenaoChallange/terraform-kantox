@@ -2,6 +2,7 @@
 
 Estructura:
 
+```console
 jedi-locator
 ├── terraform
 │   ├── main.tf
@@ -14,7 +15,7 @@ jedi-locator
 │   ├── requirements.txt
 ├── README.md
 |____
-
+```
 
 ## Descripción
 
